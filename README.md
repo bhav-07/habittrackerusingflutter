@@ -26,16 +26,3 @@ This Project  was made using Flutter.
 - In built [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) timer for users.
 - Option for users to switch to Dark Mode.
 
-## Known issues
-- Firebase login isn't working currently due to some conflict.
-
-## References
-- [Mitch_Koko](https://www.youtube.com/c/MitchKoko) 
-- [Johannes_Milke](https://www.youtube.com/c/JohannesMilke)  
-- [flutter.dev](flutter.dev)
-
-Operating Systems used - Windows 11
-
-!!IMP:
-To check the Login page u can change the line 23 in main.dart
-from(home:HomePage())  to (home:LoginPage)
